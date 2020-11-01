@@ -3,8 +3,8 @@ description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
 
-# debug:
-#   compress: true
+debug:
+  compress: true
 #   dist: false
 #   shortcodes: true
 
