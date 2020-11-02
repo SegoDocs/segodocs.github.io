@@ -3,10 +3,6 @@ description: Just another documentation theme compatible with GitHub Pages
 
 theme: null
 
-google:
-  gtag: GTM-PPSNGX6
-  adsense:
-
 debug:
   compress: true
 #   dist: false
