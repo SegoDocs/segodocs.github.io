@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/segodocs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://segodocs.github.io
+  * I am segodocs (https://keybase.io/segodocs) on keybase.
+  * I have a public key ASA3J6UDdksxMXLclTXmrpqjrnuZzdAX3-RhgcRojCWbywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203a269a2d13fc593f2c5461cb69ee62ca85b245f12368f7b2398c8d1d610e58c90a",
+      "host": "keybase.io",
+      "kid": "01203727a503764b313172dc9535e6ae9aa3ae7b99cdd017dfe46181c4688c259bcb0a",
+      "uid": "7b0d22973ac96004d100d981a8c99e19",
+      "username": "segodocs"
+    },
+    "merkle_root": {
+      "ctime": 1604607604,
+      "hash": "57465d81ca8ce8522664a66c54ffacbd5f04f721e49997617faf630499e2372692e7ff37349f8028105ab3e2dc249ab3c71f8a4a7b1c6c3b2b385ca88b21abc4",
+      "hash_meta": "78617ce094df3f14adee182b06754e3c17df44c3baebf74d2986cafd9f597123",
+      "seqno": 18032021
+    },
+    "service": {
+      "entropy": "8ZlWhXyC8CRzXxETUJFCOtcl",
+      "hostname": "segodocs.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1604607711,
+  "expire_in": 504576000,
+  "prev": "e8b172e5483f8dc8a5895b7c4a41823ed40db77d5578e1982dcf54ae2198caff",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNyelA3ZLMTFy3JU15q6ao657mc3QF9/kYYHEaIwlm8sKp3BheWxvYWTESpcCC8Qg6LFy5Ug/jciliVt8SkGCPtQNt31VeOGYLc9UriGYyv/EIF0RHL/ZJVodJazIh2an7rl2mf4mRiYnfpK3X+OC+ndZAgHCo3NpZ8RAmdUU+D3Q8psfaqBMQMFisasQWavF258oiibP8UBEJrct8u6R0o8K6m3LS/RqzN7hNF9AQWpIcxAj/A9fHGOnD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILY1LNMfPqb1UNRpfIi9BZjDUO5E2Ywe43HXIj+TpaPno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/segodocs
+
+==================================================================
