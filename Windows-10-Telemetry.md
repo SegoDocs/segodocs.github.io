@@ -9,7 +9,7 @@
     5. [Diagnostics & feedback](#Diagnostics-&-feedback)
     6. [Activity History](#Activity-History)
 # Settings
-## Step 1: Press Windows Key + I
+## Step 1: Press <i class="fab fa-windows"></i> + I
 # Privacy
 ## Step 2: Click Privacy
 ![Image](https://raw.githubusercontent.com/SegoDocs/segodocs.github.io/develop/screenshots/ClickOnPrivacy.PNG)
