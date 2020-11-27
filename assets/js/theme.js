@@ -268,7 +268,7 @@ $(".toc ul")
   });
 
 $(".markdown-body :header").append(function () {
-  return `<a href="#${this.id}" class="anchor"><i class="octicon-link fa fa-link text-blue"></i></a>`;
+  return `<a href="#${this.id}" class="anchor"><i class="octicon-link fa fa-link text-blue" title="Permalink to this headline"></i></a>`;
 });
 
 $("div.highlighter-rouge").each(function () {
